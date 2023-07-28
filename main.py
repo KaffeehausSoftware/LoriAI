@@ -1,4 +1,4 @@
-# Lori Assistant v0.1.0
+# Lori Assistant v0.2.5
 
 import os
 import sys
